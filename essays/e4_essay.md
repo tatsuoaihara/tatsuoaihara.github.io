@@ -1,11 +1,12 @@
+---
 layout: essay
 type: essay
-title: "E4: My Progress in Programming"
+title: "E4: Progress in Programming"
 # All dates must be YYYY-MM-DD format!
 date: 2023-04-10
 published: true
 labels:
-  - Assignment1
+  - Assignment 1
 ---
 My programming skills have greatly improved in the following ways:
 My programming has improved in many, many ways. At the beginning of the semester I probably couldn't code more than a few lines before stressing and freaking out about certain things. To say the least, I was not a good programmer at the beginning of this course, neither am I now. However, I have come a long way from before. I can now build a products array and insert it into an html file, I can also assign an id to an object. I also think that i some ways my programming has improved as I can now write loops moretheless. Those are just a few, among many things, that I have improved upon since beginning this class.
