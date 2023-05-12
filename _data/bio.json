@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": " Colby (Tatsuo) Aihara",
+    "label": "Shidler Undergraduate",
+    "picture": "https://github.com/tatsuoaihara.png",
+    "email": "ctaihara@hawaii.edu",
+    "phone": "808-859-4644",
+    "website": "https://tatsuoaihara.github.io",
+    "summary": "I am currently studying for a BBA in Management Information Systems and Management at the Shidler College of Business at the University of Hawaii at Manoa. I expect to graduate in Spring of 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "tatsuoaihara", "url": "http://github.com/tatsuoaihara.io" },
+      { "network": "linkedin", "username": "Colby (Tatsuo) Aihara", "url": "http://linkedin.com/in/colby-aihara-58766b250/" }
+    ]
+  },
+  "interests": [
+    { "name": "Powerlifting" },
+    { "name": "Video Games" },
+    { "name": "Playing Wordle" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information Systems (expected Spring, 2025)",
+      "studyType": "B.A.",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Sinclair Library: OVPRI",
+      "position": "Adminstrative Assistant",
+      "website": "",
+      "startDate": "2022-07-24",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Maintain, update, and oversee OVPRI webiste, contact information, send out newsletters",
+        "Help coordinate activities for UH Manoa students for entreprenuering & innovation oppurtunities "
+      ]
+    },
+    {
+      "company": "Hawaii Events Unlimited",
+      "position": "Photographer, Technician",
+      "website": "https://www.hawaiieventsunlimited.com/",
+      "startDate": "2022-04-16",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Set up and operate photo equipment",
+        "Help set up and break down light fixtures, speakers and cold sparks"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "UHM Powerlifting Club",
+      "website": "",
+      "position": "Club Member",
+      "startDate": "2022-09-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "USAPL Collegiate Nationals 2023"
+      ]
+    }
+  
+  ],
+  "awards": [
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
